@@ -1,4 +1,6 @@
-# Capstone_project
+# Forecasting wastewater discharges with Machine Learning
+# Professional Certificate in Data Analytics
+# Capstone project | Marcin Lenarcik
 # Executive summary
 ## Accurate predictions of wastewater discharges could support a proactive management of treatment sites and help to optimally utilise their capacity alongside long-term infrastructure investment. The purpose of this project is to assess the potential of Machine Learning (ML) methods for making such predictions. Optimisation and exploration of different ML approaches is recommended, along with expanding the dataset to include all wastewater treatment sites. Initial applications of ML models show promising results, indicating that these models can be used to predict potential discharges based on rainfall forecasts.
 
